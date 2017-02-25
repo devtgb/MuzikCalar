@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<data>
+  <row name=".977 The 80s Channel" url="http://www.977music.com/tunein/web/80s3.asx" />
+  <row name=".977 The 90s Channel" url="http://www.977music.com/tunein/web/90s3.asx" />
+  <row name=".977 The Country Channel" url="http://www.977music.com/tunein/web/country3.asx" />
+  <row name=".977 The Hitz Channel" url="http://scfire-ntc-aa06.stream.aol.com:80/stream/1074" />
+  <row name="1 Live (Eins Live)" url="http://metafiles.gl-systemhaus.de/wdr/channel_einslive.m3u" />
+  <row name="1001 FM" url="http://www.dostmedya.com/ply/1001fm.pls" />
+  <row name="Abuzer FM" url="http://live.radyotvonline.com:9030/listen.pls" />
+  <row name="Açık Radyo" url="http://www.yayinonline.com/asx/radyoasx.asp?rd=acikradyo" />
+  <row name="AÇS Radyo" url="http://yayin.netradyom.com:11150/listen.pls" />
+  <row name="Adana FM" url="http://yayin1.yayindakiler.com:3182/" />
+  <row name="Adana Polis Radyosu" url="http://www.radyolarburada.com:6868" />
+  <row name="Adana Süper FM" url="http://sunucu2.radyolarburada.com:9010/" />
+  <row name="Adıyaman Mert FM" url="http://yayin1.yayindakiler.com:3002/" />
+  <row name="Adıyaman Radyo Tek" url="http://yayin1.yayindakiler.com:3102" />
+  <row name="African FM" url="http://www.africaninternetradio.com:8000" />
+  <row name="Afşin FM" url="http://sunucu2.radyolarburada.com:7546/listen.pls" />
+  <row name="Afterhours FM Progressive House From Canada" url="http://ru.ah.fm:9000" />
+  <row name="Afterhoursdjs Main House Channel" url="http://207.200.96.230:8004" />
+  <row name="Afyon Mavi Radyo" url="http://www.trd.com.tr/connect/trd3.m3u" />
+  <row name="Ak Mega Radyo" url="http://yayin1.canliyayin.org:7078/listen.pls" />
+  <row name="Akdeniz FM" url="mms://ns9.adabilisim.net/radyoakdeniz" />
+  <row name="Akdeniz Radyo Hatay" url="http://sunucu1.radyolarburada.com:7077" />
+  <row name="Akra FM" url="http://canli.akradyo.net:7895/listen.pls" />
+  <row name="Aksaray FM" url="http://aksarayfm.radyoyayini.com:9270" />
+  <row name="Aktif Radyo" url="http://sunucu1.radyolarburada.com:5588/listen.pls" />
+  <row name="Alanya Radyo Time" url="http://alanyaradyotime.com/listen/listen.pls" />
+  <row name="Alem FM" url="http://www.alemfm.com/pls/winamp.pls" />
+  <row name="Alemiz FM" url="http://radiocilekfm.com:9191/" />
+  <row name="Aliağa Radyo Sahil" url="mms://89.19.26.210/radyosahil" />
+  <row name="Alternatif Radyo" url="http://yayin.turkhosted.com:915/listen.pls" />
+  <row name="Anadolu FM Kırıkkale" url="http://80.239.141.175:7171" />
+  <row name="Anadolu Radyo" url="http://yayin.canlitv.com:8050" />
+  <row name="Anadolunun Sesi" url="http://www.yayinonline.com/asx/radyoasx.asp?rd=anadolununsesi" />
+  <row name="Ankara Polis Radyosu" url="mms://212.175.37.110/pr3" />
+  <row name="Ankara Radyo İmaj" url="http://imajradyo.listen2myradio.com/media/playradio1565871.asx" />
+  <row name="Antalya FM" url="http://94.102.6.154:9000" />
+  <row name="Antu Radyo" url="http://www.antu.com:8001/listen.pls" />
+  <row name="Arabesk FM" url="http://yayin.damarfm.com:8000" />
+  <row name="Arifan Radyo" url="http://173.255.137.157:8474/listen.pls" />
+  <row name="Armoni FM" url="http://armonifm.radyoyayini.com:7072/listen.pls" />
+  <row name="Arnavutköy Can FM" url="http://46.20.5.92:5522/" />
+  <row name="Art FM" url="mms://yayin3.canliyayin.org/artfm" />
+  <row name="Art FM Antalya" url="mms://77.245.145.114/art fm" />
+  <row name="Aşk FM" url="http://yayin.asymedya.com:8020/listen.pls" />
+  <row name="Aşk FM Türkiye" url="http://askfm.radyolarburada.com:8060/listen.pls" />
+  <row name="Asr FM" url="http://yayin2.yayindakiler.com:4072/" />
+  <row name="Asya Radyo" url="http://217.20.112.150:9850/listen.pls" />
+  <row name="Avrasya Türk" url="http://radyoavrasya.radyolarburada.com:1071" />
+  <row name="Barış FM" url="http://109.73.71.86:1300/listen.pls" />
+  <row name="Batı Radyo" url="http://217.20.112.150:6255" />
+  <row name="Batman FM" url="http://yayin1.yayindakiler.com:3010/" />
+  <row name="Bayburt Çağrı FM" url="http://217.20.122.130:6931/listen.pls" />
+  <row name="Bayrak FM" url="mms://bms.brtk.net/bayrakfm" />
+  <row name="Bayram FM" url="http://217.20.112.150:3442/" />
+  <row name="Bergama Süper FM" url="http://superfm.radyoyayini.com:9222/" />
+  <row name="Best FM" url="http://radyo1.kolayradyo.com:19035" />
+  <row name="Best Radyo" url="http://canli.bestradyo.org:8004" />
+  <row name="Bey FM" url="http://mirasis.acteknik.com:11032/listen.pls" />
+  <row name="Biga FM" url="http://yayin2.yayindakiler.com:4088/" />
+  <row name="Bilecik FM" url="http://yayin2.yayindakiler.com:4044/" />
+  <row name="Birce FM" url="http://62.212.84.42:7044" />
+  <row name="Bitlis FM" url="http://www.onlinedinle.com:8700/" />
+  <row name="Bizim FM" url="http://radyo.bizimdiyar.com:8000/listen.pls" />
+  <row name="Bizim Radyo" url="http://www.bizimradyo.fm/listen.asx" />
+  <row name="Bodrum FM" url="http://88.249.224.95:2759" />
+  <row name="Bolu FM" url="http://yayin1.yayindakiler.com:3022/" />
+  <row name="Bor FM" url="http://yayin1.canliyayin.org:8898/" />
+  <row name="Bosna Expres Radio" url="http://expres-bosna.no-ip.biz:1936/" />
+  <row name="Bosna Radio-D7" url="http://178.77.73.244:8000/" />
+  <row name="Bosna X-Mix Radio" url="http://www.bosna-klub.com:1934/" />
+  <row name="Bozkurtlar FM" url="http://109.235.251.245:8877/" />
+  <row name="Burç FM" url="http://88.255.168.70:8000/listen.pls" />
+  <row name="Burdur FM" url="http://yayin2.yayindakiler.com:4070/" />
+  <row name="Bursa FM" url="http://sh2.mncdn.net:8044/listen.pls" />
+  <row name="Bursa Genç FM" url="http://gencfm.radyoyayini.com:4242/listen.pls" />
+  <row name="Bursa Karadeniz FM" url="http://www.yayinonline.com/asx/radyoasx.asp?rd=karadenizfmb" />
+  <row name="Bursa Olay FM" url="http://yayin5.yayindayiz.biz:8195/" />
+  <row name="Bursa Özlem FM" url="http://84.16.230.129:6161/" />
+  <row name="Bursa Radyo Aktif" url="http://sr1.netmedya.org:9220/" />
+  <row name="Bursa Radyo Deniz" url="http://yayin2.yayindakiler.com:4152/" />
+  <row name="Bursa Radyo Poyraz" url="http://eu.vit.com.tr:9550/" />
+  <row name="Çağrı FM" url="http://yayin1.canliyayin.org:8202/listen.pls" />
+  <row name="Çan FM" url="http://84.16.230.129:8760" />
+  <row name="Capital Radio" url="http://sc-capital.mncdn.net/listen.pls" />
+  <row name="Cemre FM" url="http://yayin2.canliyayin.org:8002/" />
+  <row name="Çilek FM" url="http://radiocilekfm.com:9393/" />
+  <row name="Çorlu FM" url="http://yayin2.yayindakiler.com:4170/listen.pls" />
+  <row name="CRT FM" url="http://yayin2.yayindakiler.com:4018" />
+  <row name="Damar FM" url="http://yayin.damarfm.com:8080/listen.pls" />
+  <row name="Damar FM İstanbul" url="http://yayin.damarfm.com:8080/listen.pls" />
+  <row name="Dance FM" url="http://stream.ctduo.com:8050" />
+  <row name="Dede FM" url="http://82.192.78.144:9998/listen.pls" />
+  <row name="Delidolu FM" url="http://85.214.233.4:9998/;stream.nsv" />
+  <row name="Delta FM" url="http://sunucu4.radyolarburada.com:2030/listen.pls" />
+  <row name="Dem Radyo" url="http://live.radyotvonline.com:9400/listen.pls" />
+  <row name="Dert FM" url="http://s1.viastreaming.net:8615/listen.pls" />
+  <row name="Derya FM" url="http://www.radyoderya.net/ayar1/radyo.m3u" />
+  <row name="Dinamo FM" url="http://www.dinamo.fm/dinamo.pls" />
+  <row name="Dini Radyo" url="http://www.diniradyo.com/yayin.asx" />
+  <row name="Doğan FM" url="http://217.20.112.150:1455/listen.pls" />
+  <row name="Doğu Karadeniz FM" url="mms://95.211.98.4/rd-karadenizfmb" />
+  <row name="Doğu Radyo" url="http://www.radyodinle.com/pls/261.pls" />
+  <row name="Dolunay FM" url="http://yayin1.canliyayin.org:8318/listen.pls" />
+  <row name="Dost FM" url="http://www.dosttv.com:8000/listen.pls" />
+  <row name="Dost FM Amasya" url="http://euro3.bizidinle.com/yayin-bd-dostfmamasya" />
+  <row name="Dost FM Bursa" url="http://dostfm.radyoyayini.com:8800/listen.pls" />
+  <row name="Dost FM Hatay" url="http://sunucu2.radyolarburada.com:5151/" />
+  <row name="Dost FM Malatya" url="http://yayin.kaliteweb.com.tr:5400/" />
+  <row name="Dostlar FM" url="http://mirasis.acteknik.com:11042/listen.pls" />
+  <row name="Dünya Radyo" url="http://88.255.168.86:8000/listen.pls" />
+  <row name="Düziçi FM" url="http://duzicifm.com/radyo.m3u" />
+  <row name="Efe FM" url="http://188.124.15.199:9550/listen.pls" />
+  <row name="Efsane Radyo" url="http://mirasis.acteknik.com:11082" />
+  <row name="Egevizyon" url="http://mirasis.acteknik.com:11106/listen.pls" />
+  <row name="Eko FM" url="mms://mediasrv.eko.fm/eko" />
+  <row name="Electro Radyo" url="http://stream.electroradio.ch:26630" />
+  <row name="Erzincan FM" url="http://erzincanfm.canliyayinda.com:2424/" />
+  <row name="Erzurum İmaj FM" url="http://217.20.112.150:9797/" />
+  <row name="Eskişehir Polis Radyosu" url="http://sunucu1.radyolarburada.com:7272/" />
+  <row name="Eylül FM" url="http://radyo.eylulfm.com:6835/" />
+  <row name="Ezgi Radyo" url="http://217.20.112.150:1782/" />
+  <row name="Ezgiler FM" url="http://94.75.222.231:5478/listen.pls" />
+  <row name="FG 93.7" url="http://live2.radyotvonline.com:9370/" />
+  <row name="FG Dj Radio" url="http://fg.impek.tv:80/" />
+  <row name="Flamingo FM" url="http://flamingofm.radyoyayini.com:9870/listen.pls" />
+  <row name="FM 23" url="http://fm23.radyoyayini.com:6020/" />
+  <row name="French Kiss FM" url="http://www.frenchkissfm.com/wp-content/images/tunein-station.pls" />
+  <row name="Fresh 102.7" url="http://208.80.54.61:80/KFRHFMCMP3" />
+  <row name="Galatasaray FM" url="http://live.radyotvonline.com:9010/listen.pls" />
+  <row name="Gebze FM" url="http://94.23.248.192:7199/" />
+  <row name="Gebze Radyosu" url="http://94.23.248.192:7199/" />
+  <row name="Genç Akdeniz" url="http://akdenizfm.radyolarburada.com:9988/listen.pls" />
+  <row name="Genç FM" url="http://yayin2.yayindakiler.com:4092/" />
+  <row name="Genç Radyo" url="http://yayin1.yayindakiler.com:3146" />
+  <row name="Gençlik FM" url="http://yayin1.yayindakiler.com:3012/" />
+  <row name="Gerçek FM" url="http://yayin.yayindayiz.biz:8180/" />
+  <row name="Girdap FM" url="http://80.239.141.175:9974/" />
+  <row name="Giresun FM" url="http://217.20.122.130:2828/" />
+  <row name="Gökkuşağı Radyo" url="http://212.7.200.213:6004/listen.pls" />
+  <row name="Gökkuşağı Radyo Tokat" url="http://212.7.200.213:6004/listen.pls" />
+  <row name="Gönen Radyo Venüs" url="http://yayin1.yayindakiler.com:3040/" />
+  <row name="Gözde FM" url="http://67.159.29.102:9060" />
+  <row name="Gözyaşı FM" url="mms://yayin3.canliyayin.org/gozyasi1" />
+  <row name="Gül FM" url="http://yayin.kusto.com/NETFM.asx" />
+  <row name="Gül Radyo" url="http://www.yayinonline.com/asx/radyoasx.asp?rd=radyogul" />
+  <row name="Gün FM" url="mms://ns9.adabilisim.net/guntv" />
+  <row name="Güney Radyo" url="http://yayin3.canliyayin.org/guneyradyo" />
+  <row name="Gurbetçi FM" url="http://live2.radyotvonline.com:8750/" />
+  <row name="Hamsi FM" url="http://radyo.infoturk.fi:8050/" />
+  <row name="Harby FM" url="http://95.154.241.194:7080" />
+  <row name="Hayatın Sesi" url="http://gecelife.biz:8330/listen.pls" />
+  <row name="Hedef Radyo" url="mms://yayin3.canliyayin.org/hedefradyo" />
+  <row name="Hit FM" url="http://84.16.230.129:2038/" />
+  <row name="Hot 108 Jamz" url="http://www.hot108.com/hot108.pls" />
+  <row name="Hot 97.5" url="http://madison.wm-live.abacast.com/kempbroadcasting-kveg-64" />
+  <row name="Hür FM" url="http://sunucu2.radyolarburada.com:8165/listen.pls" />
+  <row name="İbadet FM" url="http://188.138.94.225:8822" />
+  <row name="Ilgın FM" url="mms://yayin3.canliyayin.org/ilginfm" />
+  <row name="İmbat FM" url="http://www.imbatfm.com/play.pls" />
+  <row name="İslam Radyo" url="http://islamradyo.net:3059/" />
+  <row name="İsra FM" url="http://yayin1.canliyayin.org:8210" />
+  <row name="İstanbul FM" url="http://85.25.122.232:8000/istanbulfm" />
+  <row name="İstanbulun Sesi" url="http://www.yayin.tv.tr/play.stream.php?id=6" />
+  <row name="İtü Radyosu" url="http://www.radyo.itu.edu.tr/ITU_Radio_Station.asx" />
+  <row name="Jest FM" url="http://jestfm.radyolarburada.com:8070/listen.pls" />
+  <row name="Jest FM Konya" url="http://www.jestfm.net/mimages/asx-jestfm.asx" />
+  <row name="Joy FM" url="http://46.165.197.15:3040/" />
+  <row name="Joy Türk" url="http://46.165.197.15:3050/" />
+  <row name="Kaan FM" url="http://yayin4.selcuklu.net:9090" />
+  <row name="Kalp FM" url="http://kalpfm.radyolarburada.com:8088/listen.pls" />
+  <row name="Kanaltürk Radyo" url="http://94.75.221.228:80/" />
+  <row name="Kar Tanesi FM" url="http://89.107.230.164:8617/" />
+  <row name="Karadeniz FM" url="http://mirasis.acteknik.com:11144/" />
+  <row name="Karadenizin Sesi" url="http://yayin1.canliyayin.org:8200/" />
+  <row name="Kardelen FM" url="http://dinle.kardelenfm.com:2000/listen.pls" />
+  <row name="Karma Love" url="http://92.48.118.17:10480/listen.pls" />
+  <row name="Karma Türk" url="http://92.48.118.17:9900/listen.pls" />
+  <row name="Karmalove FM" url="http://92.48.118.17:10480" />
+  <row name="Kay Radyo" url="http://yayin1.yayindakiler.com:3054/listen.pls" />
+  <row name="Kaya FM" url="http://217.20.112.150:1111/" />
+  <row name="Kent FM" url="mms://95.211.98.4/rd-kentFM" />
+  <row name="Keskin FM" url="http://yayin1.canliyayin.org:8286/listen.pls" />
+  <row name="Kevser Radyo" url="http://www.medya16.net/playerlar/kevser.pls" />
+  <row name="Kilis Sultan Radyo" url="http://84.16.230.129:5791/listen.pls" />
+  <row name="Kırık Plaklar" url="http://84.16.230.129:3255/listen.pls" />
+  <row name="KissFm Romania" url="http://80.86.106.136/listen.pls" />
+  <row name="Köln Radyosu" url="http://www.funkhauseuropa.de/koelnradyosunet.m3u" />
+  <row name="Konya FM" url="http://212.175.65.68:8001/" />
+  <row name="Konya Radyo Net" url="http://radyonet.radyoyayini.com:6314/listen.pls" />
+  <row name="Kral Damar FM" url="http://www.kraldamarfm.com/kraldamarfm.pls" />
+  <row name="Kral FM" url="http://sc-kral.mncdn.net:80/" />
+  <row name="Kral Pop" url="http://sc-kralpop.mncdn.net/listen.pls" />
+  <row name="Kral Radyo" url="http://dinle.kralradyo.net:3000" />
+  <row name="Kral Türk" url="http://sunucu2.radyolarburada.com:6565" />
+  <row name="Kumsal FM" url="http://kumsalradyo.radyoyayini.com:9550" />
+  <row name="Kumsal Radyo" url="http://kumsalradyo.radyoyayini.com:9550/listen.pls" />
+  <row name="Küpe FM" url="http://sr1.netmedya.org:9700/listen.pls" />
+  <row name="Kuşadası FM" url="http://yayin4.yayindayiz.biz:8050/" />
+  <row name="Lalegül FM" url="http://www.lalegulfm.com/yayin/dinle.pls" />
+  <row name="LeechTurk" url="http://213.251.185.62:8002/listen.pls" />
+  <row name="Lig Radyo" url="http://www.ligradyo.net/pls/ligradyo.pls" />
+  <row name="Lounge FM" url="http://live2.radyotvonline.com:1020/" />
+  <row name="Love Türk" url="http://85.25.122.232:8000/loveturk" />
+  <row name="Magic FM" url="http://217.20.122.130:1456" />
+  <row name="Mamaş FM" url="http://www.mamasfm.com:8000" />
+  <row name="Marmara FM" url="http://marmarafm.canliyayinda.com:8008" />
+  <row name="Marmara FM (Cihan)" url="http://radyocihan.canliyayinda.com:1052/listen.pls" />
+  <row name="Masal FM" url="http://88.191.108.226:6060" />
+  <row name="Mavi FM" url="http://yayin4.mavifm.com:8000/listen.pls" />
+  <row name="Mavi Karadeniz" url="http://mirasis.acteknik.com:11040/listen.pls" />
+  <row name="Mavi Radyo" url="http://sunucu2.radyolarburada.com:4343" />
+  <row name="Mavi Radyo Adana" url="http://sunucu2.radyolarburada.com:7535" />
+  <row name="Mavi Radyo Eskişehir" url="mms://91.151.84.46/maviradyo" />
+  <row name="Mavi Radyo Hatay" url="http://sunucu2.radyolarburada.com:4343/" />
+  <row name="Maviboncuk FM" url="http://maviboncukfm.com:8000/listen.pls" />
+  <row name="Max FM" url="http://www.maxfm.com.tr/maxfm.wvx" />
+  <row name="Medya FM" url="http://live2.radyotvonline.com:9390/listen.pls" />
+  <row name="Mega Hit FM" url="http://www.megahitfm.com/listen.pls" />
+  <row name="Melodi FM" url="http://yayin.canlitv.com:5020" />
+  <row name="Meltem Radyo" url="http://83.170.93.64:7882/" />
+  <row name="Mercan FM" url="http://yayin2.selcuklu.net:7020/listen.pls" />
+  <row name="Mersin FM" url="http://sunucu1.radyolarburada.com:9990/listen.pls" />
+  <row name="Mersin Radyo Klas" url="http://sunucu2.radyolarburada.com:9123/" />
+  <row name="Mesaj FM" url="http://yayin.canlitv.com:8010/" />
+  <row name="Meteor FM" url="mms://212.175.180.168/MeteorolojininSesi" />
+  <row name="Metro FM" url="http://46.165.197.15:3035/" />
+  <row name="Metropol FM" url="http://live5.radyotvonline.com:8070/" />
+  <row name="Mix FM" url="http://sunucu2.radyolarburada.com:8015/listen.pls" />
+  <row name="Moral FM" url="mms://yayin3.canliyayin.org/moralfm" />
+  <row name="Naklen Futbol" url="http://radyo1.kolayradyo.com:5000/listen.pls" />
+  <row name="Nehir Radyo" url="http://95.154.236.4:8585" />
+  <row name="Nevşehir Radyo Mega" url="mms://yayin3.canliyayin.org/nevsehirradyomega" />
+  <row name="Niğde Tempo FM" url="http://yayin1.canliyayin.org:8344/listen.pls" />
+  <row name="Nizip Radyo" url="http://85.25.120.25:8342" />
+  <row name="NTV Radyo" url="http://sc-ntv.mncdn.net/listen.pls" />
+  <row name="NTV Spor" url="http://sc-ntvspor.mncdn.net/listen.pls" />
+  <row name="Number One FM" url="http://1numara.radyoyayini.com:3330/listen.pls" />
+  <row name="Olay FM" url="http://www.olayfm.com.tr/live/listen.asx" />
+  <row name="Öncü Radyo" url="http://yayin.canlitv.com:9040/listen.pls" />
+  <row name="One FM" url="http://sunucu1.radyolarburada.com:9085" />
+  <row name="Ortaca FM" url="http://live.radyotvonline.com:9100/listen.pls" />
+  <row name="Osmancık FM" url="http://radyo5.alyasoft.net:7369/listen.pls" />
+  <row name="Ostim Radyo" url="http://megasite.netradyom.com:8079/" />
+  <row name="Öz FM" url="http://yayin2.selcuklu.net:4343/" />
+  <row name="Özel FM" url="http://78.40.231.225:8014/" />
+  <row name="Özgür Radyo" url="http://canliyayin.ozgurradyo.com:8100/" />
+  <row name="Özlem FM" url="http://yayin2.yayindakiler.com:4062/listen.pls" />
+  <row name="Özlem Radyo" url="mms://95.211.98.4/rd-ozlemradyo" />
+  <row name="Özmen FM" url="http://84.16.227.87:1200" />
+  <row name="Pal FM" url="http://89.149.226.212:9920/" />
+  <row name="Pal Station" url="http://89.149.226.212:1860/" />
+  <row name="Park FM" url="http://park.netradyom.com:1345" />
+  <row name="Polis Radyosu" url="mms://212.175.37.110/pr2" />
+  <row name="Power FM" url="http://46.20.4.43:8130/listen.pls" />
+  <row name="Power Hitz" url="http://www.powerhitz.com/ph.pls" />
+  <row name="Power Türk" url="http://46.20.4.58:8040/listen.pls" />
+  <row name="Power XL" url="http://www.powerxl.com.tr/2010/streamm.wax" />
+  <row name="Radio Active" url="http://yayin.turkhosted.com:999/" />
+  <row name="Radio Life" url="http://radyolife.radyonudinle.com:9505/listen.pls" />
+  <row name="Radio Line" url="http://www.radioline.fm/radioline.pls" />
+  <row name="Radio Mic Beatz" url="http://199.16.186.36:8316/listen.pls" />
+  <row name="Radio Mydonose" url="http://mydonose.radyolarburada.com:5255/listen.pls" />
+  <row name="Radio N101" url="http://radio3.cdntr.com/n101.asx" />
+  <row name="Radio Shema" url="http://yayin.netradyom.com:9030/listen.pls" />
+  <row name="Radio Voyage" url="http://sc-voyage.mncdn.net/listen.pls" />
+  <row name="Radyo 03" url="http://www.radyo03.com.tr/radyo03.pls" />
+  <row name="Radyo 06" url="http://live.radyotvonline.com:8170/listen.pls" />
+  <row name="Radyo 09" url="http://yayin.radyo09.com:8260/listen.pls" />
+  <row name="Radyo 1" url="http://213.194.106.141:8000" />
+  <row name="Radyo 11" url="http://yayin2.yayindakiler.com:4042/" />
+  <row name="Radyo 13" url="http://yayin1.yayindakiler.com:3050/" />
+  <row name="Radyo 16 Bursa" url="http://sh1.mncdn.net:8068/listen.pls" />
+  <row name="Radyo 2000" url="http://sunucu1.radyolarburada.com:2277" />
+  <row name="Radyo 2000 (Farklı)" url="http://radyo2000.radyoyayini.com:2000/listen.pls" />
+  <row name="Radyo 34" url="http://yayin2.canliyayin.org:7424" />
+  <row name="Radyo 35" url="http://85.25.122.231:8287/" />
+  <row name="Radyo 7" url="http://live.gostream.nl:8000/listen.pls" />
+  <row name="Radyo 7 Sanat" url="http://live.gostream.nl:8050/listen.pls" />
+  <row name="Radyo 7 Şiir" url="http://live.gostream.nl:8090/" />
+  <row name="Radyo 7 Tasavvuf" url="http://live.gostream.nl:8060/" />
+  <row name="Radyo 7 Türkü" url="http://live.gostream.nl:8010/listen.pls" />
+  <row name="Radyo 71" url="http://217.20.122.130:1717/" />
+  <row name="Radyo 74" url="http://radyo74.radyoyayini.com:6990/" />
+  <row name="Radyo 81" url="http://radyo.radyo81.com:2929/" />
+  <row name="Radyo 90" url="http://live.radyotvonline.com:9400/" />
+  <row name="Radyo 99" url="http://212.7.200.213:6004/listen.pls" />
+  <row name="Radyo A" url="http://193.140.16.22:44445/listen.pls" />
+  <row name="Radyo A (Ankara)" url="mms://88.255.31.105:554/radyoa" />
+  <row name="Radyo Ahenk" url="http://92.48.118.17:9999/" />
+  <row name="Radyo Ak" url="http://radyoak.com.tr/RADYOAK.asx" />
+  <row name="Radyo Akademi" url="http://www.radyoakademi.com/player/RADYO_AKADEMi_MP.asx" />
+  <row name="Radyo Akdeniz" url="mms://ns9.adabilisim.net/radyoakdeniz" />
+  <row name="Radyo Akdeniz (Farklı)" url="http://sunucu4.radyolarburada.com:4466/" />
+  <row name="Radyo Akigo" url="http://188.124.15.200:9740/listen.pls" />
+  <row name="Radyo Aktif" url="http://www.yayindakiler.com/playlist/radyoaktif.asx" />
+  <row name="Radyo Aktif (Thm)" url="http://sunucu2.radyolarburada.com:5484/" />
+  <row name="Radyo Akustik" url="http://94.75.222.231:8088/listen.pls" />
+  <row name="Radyo Alaturka" url="http://92.48.118.17:9100/listen.pls" />
+  <row name="Radyo Anadolu" url="http://yayin.canlitv.com:8050/" />
+  <row name="Radyo Artı" url="mms://66.90.101.25/radyoarti" />
+  <row name="Radyo As" url="http://www.radyoas.com/radyo-dinle/as.wax" />
+  <row name="Radyo Aşk" url="http://80.239.141.175:9966/listen.pls" />
+  <row name="Radyo Asya" url="http://yayin.canlitv.com:6060/listen.pls" />
+  <row name="Radyo Avrasya Türk" url="http://radyoavrasya.radyolarburada.com:1071" />
+  <row name="Radyo Avrupa" url="http://yayin.kusto.com/radyodsl.asx" />
+  <row name="Radyo Azelya" url="http://yayin1.yayindakiler.com:3018/" />
+  <row name="Radyo Barış" url="http://217.20.122.130:8510/listen.pls" />
+  <row name="Radyo Başkent" url="mms://193.140.162.117:8080/" />
+  <row name="Radyo Beşiktaş" url="http://91.191.165.173/radyobesiktas" />
+  <row name="Radyo Beyaz" url="http://91.93.131.207:8000/listen.pls" />
+  <row name="Radyo Bilkent" url="http://sunucu2.radyolarburada.com:5000/" />
+  <row name="Radyo Bizimstar" url="http://85.25.141.78:7575" />
+  <row name="Radyo Bora" url="http://yayin1.canliyayin.org:8214" />
+  <row name="Radyo Bordo Mavi" url="http://yayin4.selcuklu.net:7030" />
+  <row name="Radyo Boyko" url="http://server.radyoboyko.com:8050" />
+  <row name="Radyo Burdur FM" url="http://www.radyoburdurfm.com:2025/" />
+  <row name="Radyo Can" url="http://radyocan.com.tr/radyo/radyocann.asx" />
+  <row name="Radyo Çan Çanakkale" url="http://canfm1005.radyoyayini.com:7080" />
+  <row name="Radyo Can Tekirdağ" url="mms://173.224.120.197:36072/RadyoCan" />
+  <row name="Radyo Cihan" url="http://radyocihan.canliyayinda.com:1052/listen.pls" />
+  <row name="Radyo Çınar" url="http://www.cinarradyo.com/yayin.asx" />
+  <row name="Radyo Çukurova" url="http://sunucu4.radyolarburada.com:6543" />
+  <row name="Radyo Cum" url="mms://cubidtv.cumhuriyet.edu.tr/radyo" />
+  <row name="Radyo D" url="http://89.149.196.195:8080" />
+  <row name="Radyo Dadaş" url="http://85.17.137.151:6719/listen.pls" />
+  <row name="Radyo Damla" url="http://radyodamla.radyoyayini.com:6270" />
+  <row name="Radyo Davet" url="http://78.189.204.30:8060/listen.pls" />
+  <row name="Radyo Denge" url="http://yayin1.canliyayin.org:8278/" />
+  <row name="Radyo Deniz" url="http://www.multitv.nl/multitv.asx" />
+  <row name="Radyo Derya" url="http://gecelife.net:1931" />
+  <row name="Radyo Derya Konya" url="http://www.radyoderya.net/ayar1/radyo.m3u" />
+  <row name="Radyo Doğa" url="http://radyodoga.com.tr/DOGA.m3u" />
+  <row name="Radyo Doğuş" url="http://217.20.112.150:9833/" />
+  <row name="Radyo Dumlupınar" url="http://dumlupinar.radyoyayini.com:3636/listen.pls" />
+  <row name="Radyo Dünya" url="http://yayin1.yayindakiler.com:3088/" />
+  <row name="Radyo Duygudiyarı" url="Http://gecelife.biz:2000/listen.pls" />
+  <row name="Radyo E" url="http://euro3.bizidinle.com/yayin-bd-radyoe" />
+  <row name="Radyo Ege" url="mms://213.142.142.213/radyoege" />
+  <row name="Radyo Ekin" url="http://mirasis.acteknik.com:11080/" />
+  <row name="Radyo Eksen" url="http://sc-eksen.mncdn.net/listen.pls" />
+  <row name="Radyo Elçi" url="http://radyoelci.radyoyayini.com:9390/" />
+  <row name="Radyo Elma" url="http://euro3.bizidinle.com/yayin-bd-radyoelma" />
+  <row name="Radyo En" url="mms://yayin4.canliyayin.org/radyoen" />
+  <row name="Radyo Ender" url="http://radyo1.alyasoft.net:8201/" />
+  <row name="Radyo Enerjik" url="http://84.16.253.236:8240/listen.pls" />
+  <row name="Radyo Erguvan" url="http://yayin3.yayindayiz.biz:8310/listen.pls" />
+  <row name="Radyo Ert" url="http://www.bizidinle.com/player/radyoasx.asp?id=22" />
+  <row name="Radyo Eylül" url="http://yayin1.yayindakiler.com:3090/listen.pls" />
+  <row name="Radyo Fantazi" url="http://radyofantazi.radyoyayini.com:6340/listen.pls" />
+  <row name="Radyo Faruki" url="http://radyo.radyofaruki.com:1324/" />
+  <row name="Radyo Fenomen" url="http://46.20.4.51:8040/" />
+  <row name="Radyo Feza" url="http://radyofeza.radyoyayini.com:9704/listen.pls" />
+  <row name="Radyo Flash" url="http://188.138.6.6:8006" />
+  <row name="Radyo Fresh" url="http://sunucu4.radyolarburada.com:9040/" />
+  <row name="Radyo Galatasaray" url="http://live.radyotvonline.com:9010/listen.pls" />
+  <row name="Radyo Garip" url="http://62.212.84.42:8888/listen.pls" />
+  <row name="Radyo Gazi" url="mms://194.27.17.6:100/" />
+  <row name="Radyo Gelişim" url="http://85.17.137.32:5253/listen.pls" />
+  <row name="Radyo Gökkuşağı" url="http://89.149.244.88:9200/listen.pls" />
+  <row name="Radyo Gönül FM" url="http://radyogonulfm.net:8706/" />
+  <row name="Radyo Gül" url="mms://yayin4.canliyayin.org/radyogul" />
+  <row name="Radyo Gün Çorum" url="http://217.20.112.150:8945" />
+  <row name="Radyo Güneş" url="http://yayin1.canliyayin.org:5024/listen.pls" />
+  <row name="Radyo Güneş Sivas" url="mms://yayin4.canliyayin.org/sivasradyogunes" />
+  <row name="Radyo Güney" url="http://sunucu2.radyolarburada.com:9920/listen.pls" />
+  <row name="Radyo Güvener" url="http://mirasis.acteknik.com:11004/listen.pls" />
+  <row name="Radyo Haber" url="http://212.95.32.250:4118" />
+  <row name="Radyo Hacettepe" url="mms://194.27.167.87/RadyoCD" />
+  <row name="Radyo Han" url="http://radyohan.dinlerim.com:9228/" />
+  <row name="Radyo Hasat" url="http://212.7.200.213:8055/listen.pls" />
+  <row name="Radyo Hasret" url="http://www.hasretiz.net/listen.wax" />
+  <row name="Radyo Hayat" url="http://radyolarburada.com:9450/" />
+  <row name="Radyo Hayat Net" url="http://www.radyohayat.com/dinle/playlist.asx" />
+  <row name="Radyo Hazar" url="http://radyohazar.radyoyayini.com:6022/" />
+  <row name="Radyo Hilal" url="http://yayin1.canliyayin.org:8388" />
+  <row name="Radyo Hiraş" url="http://yayin.radyohiras.com:9250/listen.pls" />
+  <row name="Radyo Hitmix" url="http://yayin.kafkasmedyagrup.com:7068/;stream.nsv" />
+  <row name="Radyo İhsan" url="http://sunucu1.radyolarburada.com:7473/" />
+  <row name="Radyo İkibin" url="http://www.bizidinle.com/player/winamp.pls?rd_tanim=radyo2000" />
+  <row name="Radyo İlaç" url="http://sr1.netmedya.org:1008/" />
+  <row name="Radyo İlef" url="http://ilef.ankara.edu.tr/netcast/radyoilef.pls" />
+  <row name="Radyo İletişim" url="mms://188.72.250.76/iuradyo" />
+  <row name="Radyo İslam" url="http://radyoislam.com/radyoislam1.asx" />
+  <row name="Radyo İslam (Avusturya)" url="http://yayin.radyoislam.net:2009/listen.pls" />
+  <row name="Radyo Iz" url="http://canli.radyoiz.net:7070/" />
+  <row name="Radyo Jet" url="http://www.medya16.net/playerlar/jet.pls" />
+  <row name="Radyo K" url="http://yayin4.selcuklu.net:5050/listen.pls" />
+  <row name="Radyo Karadeniz" url="http://95.9.142.245:8000" />
+  <row name="Radyo Kent" url="http://yayin1.yayindakiler.com:3062/" />
+  <row name="Radyo Kent Düzce" url="http://mirasis.acteknik.com:11090" />
+  <row name="Radyo Kilim" url="http://radyokilim.radyoyayini.com:1118/" />
+  <row name="Radyo Kilis FM" url="http://yayin2.yayindayiz.biz:8220/listen.pls" />
+  <row name="Radyo Kırık Plaklar" url="http://217.20.122.130:3255/listen.pls" />
+  <row name="Radyo Klas" url="http://klas.radyoyayini.com:3332/listen.pls" />
+  <row name="Radyo Kötüvepis" url="http://yayin.radyokvp.com:8020" />
+  <row name="Radyo Kral" url="http://www.cnet-host.net:8000" />
+  <row name="Radyo Kulüp" url="http://loveturk.radyolarburada.com:8077/" />
+  <row name="Radyo KumruNet" url="http://95.211.32.1:8745" />
+  <row name="Radyo KvP" url="http://85.95.245.50:8024/listen.pls" />
+  <row name="Radyo Lazmix" url="http://yayin2.selcuklu.net:3535/" />
+  <row name="Radyo Light" url="http://94.102.13.110:8201" />
+  <row name="Radyo Lojik" url="http://www.radyolojik.com/connect/mp3lo.m3u" />
+  <row name="Radyo Martı" url="http://sunucu4.radyolarburada.com:9880/" />
+  <row name="Radyo Medcezir" url="http://radyo.radyomedcezir.com:9999/listen.pls" />
+  <row name="Radyo Medya" url="http://medyafm.radyoyayini.com:6304" />
+  <row name="Radyo Mega" url="http://sunucu4.radyolarburada.com:1054/listen.pls" />
+  <row name="Radyo Mega Gönen" url="http://yayin1.yayindakiler.com:3126/" />
+  <row name="Radyo Mega Ordu" url="http://84.16.230.129:8842" />
+  <row name="Radyo Megasite" url="http://megasite.netradyom.com:6000/" />
+  <row name="Radyo Metropol" url="http://radyometropol.radyolarburada.com:5544/" />
+  <row name="Radyo Mix" url="http://188.72.227.43:9000/" />
+  <row name="Radyo Moda" url="http://77.92.130.2:4530/" />
+  <row name="Radyo Muba" url="http://sunucu2.radyolarburada.com:9080/listen.pls" />
+  <row name="Radyo Munzur" url="http://live5.radyoyayini.com:6262/" />
+  <row name="Radyo Mydonose" url="http://mydonose.radyolarburada.com:5255/listen.pls" />
+  <row name="Radyo Namal" url="http://www.onlinedinle.com:8350/listen.pls" />
+  <row name="Radyo Nebi" url="http://www.radyonebi.com/radyo/yayin.asx" />
+  <row name="Radyo NET" url="http://217.20.122.130:8472/" />
+  <row name="Radyo Nur" url="mms://yayin.radyonur.com/radyonur" />
+  <row name="Radyo ODTU" url="http://ideas.ceit.metu.edu.tr/asx/RadioODTU.asx" />
+  <row name="Radyo Öğüt" url="http://yayin.ogutfm.com:1021/listen.pls" />
+  <row name="Radyo On" url="http://radyoon.radyolarburada.com:8040/listen.pls" />
+  <row name="Radyo Onbeş" url="http://87.118.86.190:8216/listen.pls" />
+  <row name="Radyo Özden" url="http://live.radyotvonline.com:9050/listen.pls" />
+  <row name="Radyo Özgür" url="http://ozgurradyo.radyolarburada.com:8720/" />
+  <row name="Radyo Park" url="http://yayin.yayindayiz.biz:8000/" />
+  <row name="Radyo Pause" url="http://live5.radyotvonline.com:8010/" />
+  <row name="Radyo Pegai" url="http://server1.radyoyayini.com:7030/listen.pls" />
+  <row name="Radyo Pink" url="http://live2.radyotvonline.com:8000/listen.pls" />
+  <row name="Radyo Piramit" url="http://yayin1.yayindakiler.com:2038/listen.pls" />
+  <row name="Radyo Play" url="http://radyoplay.radyoyayini.com:9885/listen.pls" />
+  <row name="Radyo Plus" url="mms://euro5.showtvnet.com/rd-radyoplus" />
+  <row name="Radyo POP" url="http://80.radyopop.com:80/listen.pls" />
+  <row name="Radyo Rahmet" url="http://yayin.canlitv.com:8060" />
+  <row name="Radyo Ritm" url="http://88.250.73.16:8000/listen.pls" />
+  <row name="Radyo Şafak" url="http://yayin.turkhosted.com:6040/" />
+  <row name="Radyo Sahil" url="http://217.20.122.130:8295" />
+  <row name="Radyo Şahin" url="http://www.radyosahin.com/yayin.pls" />
+  <row name="Radyo Şahin - Kocaeli" url="http://sr1.netmedya.org:1272/" />
+  <row name="Radyo Samanyolu" url="http://www.radyosamanyolu.biz/dinletici/radyo_samanyolu.wmx" />
+  <row name="Radyo Şampiyon" url="http://www.radyosampiyon.com.tr/sampiyon.asx" />
+  <row name="Radyo Ses" url="http://www.radyoses.com.tr/Tr/RadyoSes.wpl" />
+  <row name="Radyo Ses Adana" url="http://yayin2.yayindakiler.com:4014" />
+  <row name="Radyo Ses Eskişehir" url="http://live2.radyotvonline.com:8095/" />
+  <row name="Radyo Ses Mersin" url="http://yayin1.yayindakiler.com:3080/listen.pls" />
+  <row name="Radyo Seyhan" url="http://live5.radyotvonline.com:7025/" />
+  <row name="Radyo Seymen" url="http://seymenfm.radyolarburada.com:6363/" />
+  <row name="Radyo Simge" url="http://radyosimge.net:8022" />
+  <row name="Radyo Şimşek" url="http://radyosimsek.canliyayinda.com:9150" />
+  <row name="Radyo Sır" url="http://93.186.121.61:8000" />
+  <row name="Radyo Şirinnar" url="mms://95.211.98.4/rd-radyosirinnar" />
+  <row name="Radyo Sky" url="http://skyradyo.org:8300/" />
+  <row name="Radyo Spor" url="http://live4.radyotvonline.com:8160/" />
+  <row name="Radyo Star" url="http://www.onlinedinle.com:9966/" />
+  <row name="Radyo Star Artı" url="mms://yayin.pcdoktorum.com/starfm" />
+  <row name="Radyo Star Tarsus" url="http://89.149.244.39:7572" />
+  <row name="Radyo Su" url="http://radyosu.sabanciuniv.edu:8002" />
+  <row name="Radyo Tatlıses" url="http://live5.radyotvonline.com:9770/" />
+  <row name="Radyo Tech" url="http://188.72.235.20:3232/;stream.mp3&amp;13039711644" />
+  <row name="Radyo Tek" url="http://yayin1.canliyayin.org:8262/" />
+  <row name="Radyo Tek Çumra" url="http://95.10.12.71:8000" />
+  <row name="Radyo Tek Samsun" url="http://85.25.120.25:8352" />
+  <row name="Radyo Tempo" url="http://217.20.122.130:8177/listen.pls" />
+  <row name="Radyo Torbalı FM" url="http://78.46.60.240:9826/listen.pls" />
+  <row name="Radyo Trafik" url="http://live2.radyotvonline.com:8000/" />
+  <row name="Radyo Tsm" url="http://www.radyotsm.com/playlist.asx" />
+  <row name="Radyo Türk" url="http://yayin2.yayindakiler.com:4028/" />
+  <row name="Radyo Turkuaz" url="http://www.radyokvp.com/RadyoKvP.wax" />
+  <row name="Radyo Türküm" url="http://live2.radyotvonline.com:8270/listen.pls" />
+  <row name="Radyo Turkuvaz" url="http://rdshout.turkuvazgroup.net:8000/listen.pls" />
+  <row name="Radyo Tutku" url="http://sh1.mncdn.net:8062/listen.pls" />
+  <row name="Radyo Ülkü" url="http://sunucu4.radyolarburada.com:7878/listen.pls" />
+  <row name="Radyo Umut" url="http://radyoumut.radyoyayini.com:8041/listen.pls" />
+  <row name="Radyo Vakit" url="http://www.radyovakit.com/yayin.asx" />
+  <row name="Radyo Venus" url="mms://yayin3.canliyayin.org/radyovenus" />
+  <row name="Radyo Venüs Balıkesir" url="http://canli.radyoyayini.com:9220/" />
+  <row name="Radyo Viva" url="http://yayin.cine5.com.tr:7052/" />
+  <row name="Radyo Vizyon Ankara" url="http://www.radyolarburada.com:6550/" />
+  <row name="Radyo Vizyon Bursa" url="http://yayin2.yayindakiler.com:4140" />
+  <row name="Radyo Vizyon Türk" url="http://vizyonturk.radyoyayini.com:9228/" />
+  <row name="Radyo Voyage" url="http://sc-voyage.mncdn.net/listen.pls" />
+  <row name="Radyo Webmaster" url="http://94.75.222.230:8724/listen.pls" />
+  <row name="Radyo X Ege" url="mms://xradyo.com/x" />
+  <row name="Radyo Yıldız" url="http://sunucu2.radyolarburada.com:2006/" />
+  <row name="Radyo Yörem" url="http://live4.radyoyayini.com:9420/" />
+  <row name="Radyo Yüksel" url="http://212.95.32.250:4054/" />
+  <row name="Radyo Z" url="http://217.20.112.150:2222" />
+  <row name="Radyo Zonguldak" url="http://live.radyotvonline.com:8400/" />
+  <row name="Radyo52" url="http://radyo.ordu52.com/listen/listenM.asx" />
+  <row name="RadyoMoto" url="http://85.25.120.171:8500/listen.pls" />
+  <row name="RadyOrjinal" url="http://radyo.radyorjinal.com:7232/listen.pls" />
+  <row name="Radyovizyon" url="http://www.radyolarburada.com:6550/listen.pls" />
+  <row name="Rahmet FM" url="http://yayin.canlitv.com:8060" />
+  <row name="Renk FM" url="http://yayin1.yayindakiler.com:3158" />
+  <row name="Rhythm Digital Station" url="http://stream.ctduo.com/ctduo/rhythm.pls" />
+  <row name="Ribat FM" url="mms://yayin3.canliyayin.org/ribatfm" />
+  <row name="RMF FM" url="http://www.miastomuzyki.pl/odbior/rmf_aacp.pls" />
+  <row name="Rock FM" url="http://92.48.118.17:9450/listen.pls" />
+  <row name="Romantik Radyo" url="http://romantikradyo.radyolarburada.com:4949/" />
+  <row name="Romantik Türk" url="http://live.radyotvonline.com:7600/" />
+  <row name="Rtd Radyo" url="http://94.75.222.231:8146/listen.pls" />
+  <row name="Şafak Radyo" url="http://www.safakradyo.com:2626/listen.pls" />
+  <row name="Sağlık FM" url="http://lin2.radyohost.com.tr/tunein.php/112acilfm/playlist.pls" />
+  <row name="Şahin FM" url="http://178.162.160.117:7770/" />
+  <row name="Sakarya Radyo Net" url="http://217.20.122.130:8472/" />
+  <row name="Sara FM" url="http://sunucu2.radyolarburada.com:5076/" />
+  <row name="Seç FM" url="http://212.175.158.193:8010/listen.pls" />
+  <row name="Semazen Radyo" url="http://yayin1.canliyayin.org:8320" />
+  <row name="Seydişehir FM" url="http://46.28.238.81:6783/" />
+  <row name="Seyhan Mavi Radyo" url="http://sunucu2.radyolarburada.com:6560/" />
+  <row name="Seyr FM" url="http://yayin1.canliyayin.org:8300" />
+  <row name="Show Radyo" url="http://yayin.cine5.com.tr:7050" />
+  <row name="Silifke FM" url="http://www.silifkefm.com/online.m3u" />
+  <row name="Sinyal FM" url="http://sinyalfm.com:1706/listen.pls" />
+  <row name="Sivas FM" url="http://yayin1.canliyayin.org:8180/" />
+  <row name="Sivas Zara FM" url="http://217.20.122.130:8150/" />
+  <row name="Sky FM" url="http://www.sky.fm/mp3/tophits.pls" />
+  <row name="Sky Radyo" url="http://skyradyo.org:8300/listen.pls" />
+  <row name="Slow Karadeniz FM" url="http://real1.radyoyayini.com:6565" />
+  <row name="Slow Radio" url="http://stream1.fluoline.net:8020" />
+  <row name="Slow Time" url="http://live5.radyotvonline.com:8180/listen.pls" />
+  <row name="Slow Türk" url="mms://84.16.227.54/slowturk" />
+  <row name="Soylu FM" url="http://yayin2.yayindakiler.com:4034/" />
+  <row name="Sultan Radyo" url="http://yayin4.selcuklu.net:4949/listen.pls" />
+  <row name="Süper FM" url="http://46.165.197.15:3030/" />
+  <row name="Süper Kanal" url="http://217.20.112.150:1355/listen.pls" />
+  <row name="Süper Show Radyo" url="http://sunucu4.radyolarburada.com:6065/" />
+  <row name="TGRT FM" url="http://sh2.mncdn.net:15000/" />
+  <row name="Tiryaki FM" url="http://radyotiryaki.radyoyayini.com:9597/listen.pls" />
+  <row name="Trakya FM" url="http://78.46.60.240:8744/listen.pls" />
+  <row name="TRD" url="http://www.trd.com.tr/connect/trd1.m3u" />
+  <row name="TRD 1" url="http://www.trd.com.tr/connect/trd1.m3u" />
+  <row name="TRD 1 Extra" url="http://www.trd.com.tr/connect/trd1x.m3u" />
+  <row name="TRD 2 Altın" url="http://www.trd.com.tr/connect/trd2.m3u" />
+  <row name="TRD 3 Sanat" url="http://www.trd.com.tr/connect/trd3.m3u" />
+  <row name="Trt Avrupa" url="mms://95.0.159.133/AVRUPA" />
+  <row name="Trt FM" url="mms://95.0.159.133/RADYOFM" />
+  <row name="Trt Nağme" url="mms://95.0.159.133/TSM" />
+  <row name="Trt Radyo 1" url="mms://95.0.159.133/RADYO1" />
+  <row name="Trt Radyo 3" url="mms://95.0.159.133/RADYO3" />
+  <row name="Trt Radyo 4" url="mms://95.0.159.133/RADYO4" />
+  <row name="Trt Radyo Haber" url="mms://95.0.159.133/KENT" />
+  <row name="Trt TSR" url="mms://95.0.159.133/RDTSR" />
+  <row name="Trt Türkü" url="mms://95.0.159.133/TURKU" />
+  <row name="Turgutlu FM" url="http://85.17.175.174:4545/listen.pls" />
+  <row name="Turgutlu Radyo İmaj" url="http://82.192.78.129:8070/listen.pls" />
+  <row name="Türkiyem FM" url="http://www.turkiyemfm.com/radyo/turkiyemfm.asx" />
+  <row name="TürkTorrent FM" url="http://radyo.turktorrent.biz:8000/listen.pls" />
+  <row name="Türkü Radyo" url="http://94.102.1.231:4591/listen.pls" />
+  <row name="Turkuaz Radyo" url="http://85.95.245.50:8024/listen.pls" />
+  <row name="Ufuk FM" url="http://yayin1.canliyayin.org:5016/listen.pls" />
+  <row name="Ülkü FM" url="http://radyoulku.radyoyayini.com:5777/" />
+  <row name="Uludağ FM" url="http://www.uludagfm.com.tr/live.pls" />
+  <row name="Umut FM" url="http://yayin1.canliyayin.org:8888/" />
+  <row name="Virgin Radio" url="http://sc-virgin.mncdn.net/listen.pls" />
+  <row name="Yağmur FM" url="http://94.75.222.231:7954/" />
+  <row name="Yaşam Radyo" url="mms://95.211.98.4/rd-yasamradyo" />
+  <row name="Yıldız FM" url="http://live.radyotvonline.com:8150/listen.pls" />
+  <row name="Yön Alaturka" url="http://yonalaturka.radyolarburada.com:8010/listen.pls" />
+  <row name="Yön Anatolia" url="http://yonanatolia.radyolarburada.com:8030/listen.pls" />
+  <row name="Yön Etnik" url="http://yonetnik.radyolarburada.com:8040/listen.pls" />
+  <row name="Yön Kampüs" url="http://yonkampus.radyolarburada.com:8050/listen.pls" />
+  <row name="Yön Radyo" url="http://yonradyo.radyolarburada.com:8020/listen.pls" />
+  <row name="Yön Rock" url="http://yonrock.radyolarburada.com:8060/listen.pls" />
+  <row name="Yön Türkü" url="http://yonturku.radyolarburada.com:8070/listen.pls" />
+  <row name="Yön World" url="http://yonworld.radyolarburada.com:8080/listen.pls" />
+  <row name="Yozgat Süper FM" url="http://217.20.112.150:5959" />
+  <row name="Yunus FM" url="http://sunucu4.radyolarburada.com:7171/" />
+  <row name="Zigana Radyo" url="http://85.17.137.150:6161/listen.pls" />
+  <row name="Zonguldak Devrek FM" url="http://kalite.radyoyayini.com:9016" />
+  <row name="Zurna FM" url="http://www.zurnafm.tk:9999" />
+</data>
