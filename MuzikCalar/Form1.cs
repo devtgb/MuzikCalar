@@ -20,21 +20,21 @@ namespace MuzikCalar
             InitializeComponent();
         }
         XmlDocument doc = new XmlDocument();
-        int sarkisayisi = 0;
-        int sira = 0;
+        int totalMusic = 0;
+        int count = 0;
         int index;
        
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            XmlRadyoGetir();
+            GetRadio();
         }
 
       
         /// <summary>
         /// XML den radyoları ve MMS adreslerini çeken method.
         /// </summary>
-        void XmlRadyoGetir()
+        void GetRadio()
         {
             //doc.Load("C:\\Users\\tugba\\Desktop\\radiodb.xml");
             doc.Load(Application.StartupPath + "\\" + "radiodb.xml");
@@ -50,11 +50,8 @@ namespace MuzikCalar
                 
             }
         }     
-/// <summary>
-/// Radyonun çalınmasını sağlayan method.
-/// </summary>
-/// <param name="url"></param>
-        void RadyoCal(string url)
+
+        void ListenRadio(string url)
         {
             axWindowsMediaPlayer1.URL = url;
           
@@ -63,13 +60,9 @@ namespace MuzikCalar
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (listView1.SelectedItems.Count > 0)
-
             {
-                RadyoCal(listView1.SelectedItems[0].Text.ToString());
-
-            }
-            
-          
+                ListenRadio(listView1.SelectedItems[0].Text.ToString());
+            }     
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -88,11 +81,11 @@ namespace MuzikCalar
                 openFileDialog1.CheckFileExists = true;
                 openFileDialog1.CheckPathExists = true;
 
-                sira = lstbilgisayar.Items.Count; //listviewdaki kolonlari sayiyoruz.
+                count = lstbilgisayar.Items.Count; //listviewdaki kolonlari sayiyoruz.
                 for (int i = 0; i < filenames.Length; i++)
                 {
-                    sarkisayisi++;
-                    lstbilgisayar.Items.Add(sarkisayisi.ToString());
+                    totalMusic++;
+                    lstbilgisayar.Items.Add(totalMusic.ToString());
                     lstbilgisayar.Items[i].SubItems.Add(safefilenames[i]);
                     lstbilgisayar.Items[i].SubItems.Add(filenames[i]);
 
@@ -101,16 +94,14 @@ namespace MuzikCalar
                 for (int i = 0; i < openFileDialog1.SafeFileNames.Length; i++)
                 {
 
-                    lstbilgisayar.Items[sira].SubItems.Add(openFileDialog1.SafeFileNames[i].ToString());
+                    lstbilgisayar.Items[count].SubItems.Add(openFileDialog1.SafeFileNames[i].ToString());
 
                 }
-                lstbilgisayar.Items[sira].SubItems.Add(openFileDialog1.FileName.ToString());
+                lstbilgisayar.Items[count].SubItems.Add(openFileDialog1.FileName.ToString());
                 openFileDialog1.FileName = "";
-                }
-           
+                }          
         }
         
-
         private void lstbilgisayar_SelectedIndexChanged(object sender, EventArgs e)
         {
             try
@@ -152,9 +143,7 @@ namespace MuzikCalar
                
             }
        
-        }
-
-     
+        }  
         }
     
 
